@@ -35,41 +35,66 @@ I'm a Computer Science student at **Sitare University**, passionate about buildi
 
 ---
 
+
 ## 🧰 Tech Stack & Technologies
 
 <table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>💻 Programming Languages</h3>
-      <img src="https://skillicons.dev/icons?i=python,java,c,js,ts&theme=dark" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>🎨 Frontend Development</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>⚙️ Backend Development</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>🗄️ Database & Cloud</h3>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,vercel,cloudflare&theme=dark" />
-      <p>Convex</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>🛠️ Developer Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash&theme=dark" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>🤖 AI & Machine Learning</h3>
-      <img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark" />
-      <p>Machine Learning · Deep Learning · RAG · NLP</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts&theme=dark"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🎨 Frontend Development</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">⚙️ Backend Development</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🗄️ Database & Cloud</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,vercel,cloudflare&theme=dark"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🛠️ Developer Tools</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash&theme=dark"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 AI & Machine Learning</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark"/>
+</p>
+
+</td>
+</tr>
 </table>
 
 ---
